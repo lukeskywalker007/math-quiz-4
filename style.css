@@ -1,0 +1,23 @@
+.bottle
+{
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 10px;
+    float: none;
+     
+}
+body {background-color: red;}
+
+#output
+{
+    background-color: aliceblue;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+label
+{
+    font-size: 20px;
+}
